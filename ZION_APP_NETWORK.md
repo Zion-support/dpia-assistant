@@ -1,18 +1,10 @@
-# 🕸️ Zion AI App Network — Interlinks
+# 🌐 Zion AI App Network
 
-Part of the **Zion AI App Network** — 840+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+- 🌐 Live: https://ziontechgroup.com/dpia-assistant/
+- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Home: https://ziontechgroup.com
 
-- 🚀 **This app (live):** https://ziontechgroup.com/dpia-assistant/
-- 🗂️ **Network hub (GitHub):** https://github.com/Zion-support/zion-app-network
-- 🌐 **Network hub (live):** https://ziontechgroup.com/zion-app-network/
-- 📓 **Apps directory:** https://ziontechgroup.com/apps/
-- 💎 **Free AI Discovery (8 questions, 2 min, instant results):** https://ziontechgroup.com/app-network-discovery.html
-- 📰 **What's new:** https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md
-
-## Related apps
-- DPIA Generator → https://ziontechgroup.com/dpia-generator/
-- DPO Privacy Assistant → https://ziontechgroup.com/dpo-privacy-assistant/
-- GDPR DSAR Autopilot → https://ziontechgroup.com/gdpr-dsar-autopilot/
-
-## Commercial
-Questions or a tailored rollout? commercial@ziontechgroup.com · https://ziontechgroup.com/contact/
+Inspect README for documented status; publication is not proof of AI functionality.
